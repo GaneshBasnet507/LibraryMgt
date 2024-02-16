@@ -1,0 +1,46 @@
+header{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    padding:20px 100px;
+    background-color: red;
+    display:flex;
+    align-items: center;
+    float: left;
+    z-index: 99;
+    
+}
+.lms{
+    color:aliceblue
+
+}
+.navigation{
+    float:right;
+    color:white;
+    font-weight:500;
+    margin-left:500px;
+    text-decoration: none;
+    padding-left: 40px ;
+    display: inline-block;
+    
+
+
+}
+a{
+    padding-left: 40px;
+
+}
+body{
+    background-image:url('library.jpg');
+    background-repeat:no-repeat;
+
+}
+.div{
+    float:left;
+    display:inline-block;
+    
+}
+li{
+    
+}
